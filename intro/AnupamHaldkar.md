@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" height="400">
+<img src="https://user-images.githubusercontent.com/48323127/95089087-5aa58e00-0741-11eb-8e94-2accc27c1f27.gif" height="400">
 
 <h1 align="center">Anupam Haldkar</h1>
 
